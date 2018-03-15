@@ -40,7 +40,8 @@ Examples of generated masks. These then get scaled and placed on the image in th
 ## Requirements
 * Python 3
 * Pytorch 0.3
-* matplotlib, scipy, skimage, h5py
+* matplotlib, scipy, skimage, h5py, cffi
+* python3-tk
 
 ## Installation
 1. Clone this repository.
